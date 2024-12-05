@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-12-05T12:36:44 IST" name="Default suite" finished-at="2024-12-05T12:36:44 IST" duration-ms="45">
+  <suite started-at="2024-12-05T15:11:45 IST" name="Default suite" finished-at="2024-12-05T15:11:45 IST" duration-ms="48">
     <groups>
     </groups>
-    <test started-at="2024-12-05T12:36:44 IST" name="Default test" finished-at="2024-12-05T12:36:44 IST" duration-ms="45">
-      <class name="TestCases.Class4">
-        <test-method signature="class1Method()[pri:0, instance:TestCases.Class4@3bcd05cb]" started-at="2024-12-05T12:36:44 IST" name="class1Method" finished-at="2024-12-05T12:36:44 IST" duration-ms="9" status="PASS">
+    <test started-at="2024-12-05T15:11:45 IST" name="Default test" finished-at="2024-12-05T15:11:45 IST" duration-ms="48">
+      <class name="TestCases.SampleClass">
+        <test-method signature="sampleMethod()[pri:0, instance:TestCases.SampleClass@3bcd05cb]" started-at="2024-12-05T15:11:45 IST" name="sampleMethod" finished-at="2024-12-05T15:11:45 IST" duration-ms="9" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- class1Method -->
-      </class> <!-- TestCases.Class4 -->
+        </test-method> <!-- sampleMethod -->
+      </class> <!-- TestCases.SampleClass -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
