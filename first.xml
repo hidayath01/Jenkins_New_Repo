@@ -3,8 +3,8 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="C:\Users\Qapitol QA\eclipse-workspace\SpecialProjectForSample\src\test\java\TestCases.Class1"/>
-      <class name="com.TestCases.Class2"/>
+      <class name=".TestCases.Class1"/>
+      <class name=".TestCases.Class2"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
