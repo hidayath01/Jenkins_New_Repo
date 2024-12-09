@@ -19,7 +19,6 @@
 </dependency>
 </dependencies>
   <build>
-
 		<finalName>selenium-test</finalName>
 <plugins>
 <!--  Plugin to create a JAR  -->
@@ -30,6 +29,6 @@
 </plugin>
 </plugins>
 
-	</build>
+</build>
 
 </project>
